@@ -1,2 +1,0 @@
-# HOUSE-DESIGN
-Template
